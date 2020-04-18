@@ -36,7 +36,7 @@ This dataset contains incidents derived from SFPD Crime Incident Reporting syste
 
 ## 3. Evaluation(평가)
 
-RMSE
+![](md_imgs/eval.png)
 
 
 
